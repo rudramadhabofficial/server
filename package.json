@@ -5,10 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-<<<<<<< HEAD
-=======
     "start": "node index.js",
->>>>>>> dc951a6bd7c7ed94a96e65fa79d214c4102d6f55
     "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,15 +15,10 @@
     "cors": "^2.8.6",
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
-<<<<<<< HEAD
-    "mongoose": "^9.2.0",
-    "multer": "^2.0.2",
-=======
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.0",
     "multer": "^2.0.2",
     "nodemailer": "^6.9.8",
->>>>>>> dc951a6bd7c7ed94a96e65fa79d214c4102d6f55
     "streamifier": "^0.1.1"
   }
 }
